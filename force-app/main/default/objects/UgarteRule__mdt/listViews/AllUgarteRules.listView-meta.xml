@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AllUgarteRules</fullName>
+    <columns>MasterLabel</columns>
+    <columns>Object__c</columns>
+    <columns>Field__c</columns>
+    <columns>DoesGenerateOnInsert__c</columns>
+    <columns>DoesGenerateOnUpdate__c</columns>
+    <columns>UuidType__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All Ugarte Rules</label>
+</ListView>
